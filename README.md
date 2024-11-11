@@ -28,7 +28,7 @@ This repository is designed to help **Class 12 students** master **Java programm
 ### 🤝 Contributing:
 We welcome contributions from fellow learners! If you have a better solution or an additional challenge, submit a **PR** and help improve the learning experience.
 
-<!-- GitHub contributors graph -->
+
 [![](https://contrib.rocks/image?repo=chrohangurjar1/TBC-12)](https://github.com/chrohangurjar1/TBC-12/graphs/contributors)
 
 ---
